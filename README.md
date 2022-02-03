@@ -1,2 +1,2 @@
-# myfirstrepo
-Experimental Repo for Familiarization with Github
+# First Repository
+This is just a temporary repository for testing github features.
